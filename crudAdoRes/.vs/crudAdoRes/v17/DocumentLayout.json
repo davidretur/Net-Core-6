@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\models\\dgroupmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\models\\dgroupmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\views\\groupmeeting\\deletemeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\views\\groupmeeting\\deletemeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\models\\groupmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\models\\groupmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\views\\groupmeeting\\addgroupmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\views\\groupmeeting\\addgroupmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\views\\groupmeeting\\editmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\views\\groupmeeting\\editmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\controllers\\groupmeetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\controllers\\groupmeetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|c:\\dav pru\\mi repo\\net-core-6\\crudadores\\crudadores\\views\\groupmeeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B33CC67-D92B-4CEB-9570-4992C80EC8C6}|crudAdoRes\\crudAdoRes.csproj|solutionrelative:crudadores\\views\\groupmeeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\appsettings.json",
+              "RelativeDocumentMoniker": "crudAdoRes\\appsettings.json",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\appsettings.json",
+              "RelativeToolTip": "crudAdoRes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T13:56:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteMeeting.cshtml",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\DeleteMeeting.cshtml",
+              "RelativeDocumentMoniker": "crudAdoRes\\Views\\GroupMeeting\\DeleteMeeting.cshtml",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\DeleteMeeting.cshtml",
+              "RelativeToolTip": "crudAdoRes\\Views\\GroupMeeting\\DeleteMeeting.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:33:20.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditMeeting.cshtml",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\EditMeeting.cshtml",
+              "RelativeDocumentMoniker": "crudAdoRes\\Views\\GroupMeeting\\EditMeeting.cshtml",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\EditMeeting.cshtml",
+              "RelativeToolTip": "crudAdoRes\\Views\\GroupMeeting\\EditMeeting.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:30:16.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddGroupMeeting.cshtml",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\AddGroupMeeting.cshtml",
+              "RelativeDocumentMoniker": "crudAdoRes\\Views\\GroupMeeting\\AddGroupMeeting.cshtml",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\AddGroupMeeting.cshtml",
+              "RelativeToolTip": "crudAdoRes\\Views\\GroupMeeting\\AddGroupMeeting.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:22:06.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\Index.cshtml",
+              "RelativeDocumentMoniker": "crudAdoRes\\Views\\GroupMeeting\\Index.cshtml",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Views\\GroupMeeting\\Index.cshtml",
+              "RelativeToolTip": "crudAdoRes\\Views\\GroupMeeting\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:19:24.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupMeetingController.cs",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Controllers\\GroupMeetingController.cs",
+              "RelativeDocumentMoniker": "crudAdoRes\\Controllers\\GroupMeetingController.cs",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Controllers\\GroupMeetingController.cs",
+              "RelativeToolTip": "crudAdoRes\\Controllers\\GroupMeetingController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwCsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:18:00.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DGroupMeeting.cs",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Models\\DGroupMeeting.cs",
+              "RelativeDocumentMoniker": "crudAdoRes\\Models\\DGroupMeeting.cs",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Models\\DGroupMeeting.cs",
+              "RelativeToolTip": "crudAdoRes\\Models\\DGroupMeeting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:08:23.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupMeeting.cs",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Models\\GroupMeeting.cs",
+              "RelativeDocumentMoniker": "crudAdoRes\\Models\\GroupMeeting.cs",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Net-Core-6\\crudAdoRes\\crudAdoRes\\Models\\GroupMeeting.cs",
+              "RelativeToolTip": "crudAdoRes\\Models\\GroupMeeting.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:04:18.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
